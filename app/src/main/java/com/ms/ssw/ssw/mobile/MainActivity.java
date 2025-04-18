@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true); // если на странице есть JS
 
         // Заменить на свой URL GitHub Pages
-        webView.loadUrl("https://username.github.io/myproject/");
+        webView.loadUrl("https://michail19.github.io/SimpleSheduleWork/");
     }
 
     // Назад в WebView
