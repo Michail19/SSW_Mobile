@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
     private WebView webView;
 
-    private String url = "https://michail19.github.io/SimpleSheduleWork/";
+    private String url = "https://michail19.github.io/SimpleScheduleWork/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
