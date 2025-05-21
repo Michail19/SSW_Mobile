@@ -31,11 +31,11 @@
 2. Откройте проект в Android Studio.
 3. Измените URL (опционально):
 
-** Отредактируйте поле url в классе MainActivity.
+* Отредактируйте поле `url` в классе `MainActivity`.
 
 4. Соберите APK:
 
-** Build > Generate Signed Bundle / APK.
+* Build > Generate Signed Bundle / APK.
 
 
 Приложение можно установить на Android устройство по [ссылке](https://drive.google.com/file/d/1fa9SxW8r3W_zkOBOi61vftugMi4XJt3o/view?usp=drive_link).
